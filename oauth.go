@@ -14,8 +14,8 @@ import (
 )
 
 const htmlIndex = `<html><body>
-<p><a href="/login">Log in with Google</a><p>
-<p><a href="/loginGithub">log in with Github</a><p> 
+<p><a href="/login">Log in with Google</a></p>
+<p><a href="/loginGithub">log in with Github</a></p> 
 </body></html>
 `
 
